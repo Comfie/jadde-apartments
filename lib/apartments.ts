@@ -22,8 +22,8 @@ export const apartments: Apartment[] = [
     description:
       "A beautifully designed studio apartment featuring modern finishes, a fully equipped kitchenette, and a cozy sleeping area. Large windows flood the space with natural light, creating a warm and inviting atmosphere.",
     images: [
-      "/images/apartments/unit-2/unit_2_2.jpg",
       "/images/apartments/unit-2/unit_2_3.jpg",
+      "/images/apartments/unit-2/unit_2_2.jpg",
       "/images/apartments/unit-2/unit_2_4.jpg",
       "/images/apartments/unit-2/unit_2_5.jpg",
       "/images/apartments/unit-2/unit_2_6.jpg",
@@ -51,8 +51,8 @@ export const apartments: Apartment[] = [
     description:
       "Enjoy direct access to our lush garden from this ground-floor suite. Features a spacious living area, modern kitchen, and a comfortable bedroom with quality linens. Perfect for those who love nature.",
     images: [
-      "/images/apartments/unit-6/unit_6_2.jpg",
       "/images/apartments/unit-6/unit_6_3.jpg",
+      "/images/apartments/unit-6/unit_6_2.jpg",
       "/images/apartments/unit-6/unit_6_4.jpg",
       "/images/apartments/unit-6/unit_6_5.jpg",
       "/images/apartments/unit-6/unit_6_6.jpg",
@@ -80,8 +80,8 @@ export const apartments: Apartment[] = [
     description:
       "Designed with the business traveler in mind, this apartment offers a dedicated workspace, premium amenities, and a comfortable bedroom. Ideal for extended stays with full kitchen facilities.",
     images: [
-      "/images/apartments/unit-7/unit_7_2.jpg",
       "/images/apartments/unit-7/unit_7_3.jpg",
+      "/images/apartments/unit-7/unit_7_2.jpg",
       "/images/apartments/unit-7/unit_7_4.jpg",
       "/images/apartments/unit-7/unit_7_5.jpg",
       "/images/apartments/unit-7/unit_7_6.jpg",
@@ -109,8 +109,8 @@ export const apartments: Apartment[] = [
     description:
       "A spacious two-bedroom apartment perfect for families. Features a large living area, fully equipped kitchen, and two comfortable bedrooms. Direct garden access keeps the kids entertained.",
     images: [
-      "/images/apartments/unit-8/unit_8_2.jpg",
       "/images/apartments/unit-8/unit_8_3.jpg",
+      "/images/apartments/unit-8/unit_8_2.jpg",
       "/images/apartments/unit-8/unit_8_4.jpg",
       "/images/apartments/unit-8/unit_8_5.jpg",
       "/images/apartments/unit-8/unit_8_6.jpg",
@@ -138,8 +138,8 @@ export const apartments: Apartment[] = [
     description:
       "Our premium two-bedroom apartment offers the ultimate in comfort and style. Two ensuite bedrooms, a gourmet kitchen, and elegant living spaces make this perfect for discerning guests.",
     images: [
-      "/images/apartments/unit-9/unit_9_2.jpg",
       "/images/apartments/unit-9/unit_9_3.jpg",
+      "/images/apartments/unit-9/unit_9_2.jpg",
       "/images/apartments/unit-9/unit_9_4.jpg",
       "/images/apartments/unit-9/unit_9_5.jpg",
       "/images/apartments/unit-9/unit_9_6.jpg",
